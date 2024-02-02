@@ -1,0 +1,11 @@
+level00@SnowCrash:/$ cat var/mail/level05 
+*/2 * * * * su -c "sh /usr/sbin/openarenaserver" - flag05
+
+find: `/rofs/var/www/level04': Permission denied
+find: `/rofs/var/www/level12': Permission denied
+
+01 > 42hDRfypTqqnw
+
+------------
+
+var/crash -> on peux ecrire et executer
