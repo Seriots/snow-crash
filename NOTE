@@ -3,9 +3,19 @@ level00@SnowCrash:/$ cat var/mail/level05
 
 find: `/rofs/var/www/level04': Permission denied
 find: `/rofs/var/www/level12': Permission denied
+lrwxrwxrwx 1 root root  23 Aug 30  2015 K20level10_start -> ../init.d/level10_start
+lrwxrwxrwx 1 root root  23 Aug 30  2015 K20level10_start -> ../init.d/level10_start
+lrwxrwxrwx 1 root root  23 Aug 30  2015 S20level10_start -> ../init.d/level10_start
+
+lrwxrwxrwx 1 root root  31 Aug 30  2015 level05.conf -> ../sites-available/level05.conf
+
+lrwxrwxrwx 1 root root  31 Aug 30  2015 level12.conf -> ../sites-available/level12.conf
+
 
 01 > 42hDRfypTqqnw
 
 ------------
 
 var/crash -> on peux ecrire et executer
+
+75divider -> 25divider
