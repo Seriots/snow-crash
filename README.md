@@ -2,7 +2,7 @@
 
 Vous pouvez acceder aux explications de chaques niveau ci-dessous:
 
-# # _Mandatory_
+## _Mandatory_
 [level00](https://github.com/Seriots/snow-crash/blob/master/flag00/Ressources/README.md)
 
 [level01](https://github.com/Seriots/snow-crash/blob/master/flag01/Ressources/README.md)
@@ -24,7 +24,7 @@ Vous pouvez acceder aux explications de chaques niveau ci-dessous:
 [level09](https://github.com/Seriots/snow-crash/blob/master/flag09/Ressources/README.md)
 
 
-# # _Bonus_
+## _Bonus_
 [level10](https://github.com/Seriots/snow-crash/blob/master/flag10/Ressources/README.md)
 
 [level11](https://github.com/Seriots/snow-crash/blob/master/flag11/Ressources/README.md)
