@@ -1,10 +1,9 @@
-# ** Level 00**
+# **Level 00**
 
 Pour le premier niveau on commence dans un dossier vide sans aucune information et avec des droits tres restreint.
 
-> En fouillant on trouve deux endroits nous permettant de faire quelques trucs:
-> le dossier `/var/crash` qui nous permet ecrire et lire tous ce qu'il y a dedans
-> le dossier `/tmp` qui nous permet d'ecrire n'importe quoi et nous permet de le lire
+> En fouillant on trouve deux endroits nous permettant de faire deux dossier: \
+> `/var/crash` et `/tmp` qui nous permettent d'ecrire des fichiers et de les executer
 
 Ensuite on essaye de chercher tout les fichiers lies aux utilisateurs level00 et flag00 qui nous interressent:
 
