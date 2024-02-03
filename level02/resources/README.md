@@ -29,6 +29,11 @@ Nous voici avec un password mais les points represente des charactere non-imprim
 
 ![wireshark raw data](wireshark2.png)
 
+Maintenant on peux voir que les `.` equival au caractere `7f` soit `127` de la table ascii soit le `cariage return`
+
+Donc le mot de passe est `ft_waNDReL0L`
+
+
 
 
 
