@@ -23,11 +23,11 @@ level02.pcap                                  100% 8302     3.4MB/s   00:00
 ```
 
 Ensuite nous donnons notre fichier a `Wireshark` pour qu'il l'analyse:
-![Wireshark analyse notre fichier et nous donne cette chaine de caractere: ft_wandr...NDRel.L0L](https://github.com/Seriots/snow-crash/edit/master/level02/resources/wireshark1.png)
+![Wireshark analyse notre fichier et nous donne cette chaine de caractere: ft_wandr...NDRel.L0L](wireshark1.png)
 
 Nous voici avec un password mais les points represente des charactere non-imprimables donc nous regardons le code ASCII des caracteres:
 
-![](https://github.com/Seriots/snow-crash/edit/master/level02/resources/wireshark2.png)
+![wireshark raw data](wireshark2.png)
 
 
 
