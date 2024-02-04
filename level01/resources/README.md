@@ -74,3 +74,4 @@ root@debian:/home/lgiband# sudo john --show pass.txt
 
 1 password hash cracked, 0 left
 ```
+> ### NEXT : [Level 01](https://github.com/Seriots/snow-crash/tree/master/level01/resources/README.md)
