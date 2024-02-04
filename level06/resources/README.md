@@ -45,6 +45,7 @@ En comprenant le `REGEX` utiliser des les preg replace on peux ecrire dans un fi
 level06@SnowCrash:~$ cat /var/crash/level06f 
 [x {${shell_exec(getflag)}}]
 ```
+> [Liens explicatifs](https://0x00sec.org/t/how-to-pwned-nebula-level09-php-preg-replace/812)
 
 Puis on passe ce fichier a l'executable qui peux executer le code avec les droits de flag06 (`rws`)
 
