@@ -28,4 +28,4 @@ Comme ce n'est pas le mot de passe, on suppose qu'il est encodee (code cesar) :
 cdiiddwpgswtgt > nottoohardhere
 ```
 
-> ### NEXT : [Level 01](https://github.com/Seriots/snow-crash/tree/master/level01/resources/README.md)
+> ### NEXT : [Level 01](/level01/resources/README.md)
