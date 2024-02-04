@@ -61,4 +61,4 @@ Check flag.Here is your token : qi0maab88jeaj46qoumi7maus
 ```
 
 
-> ### NEXT : [Level 04](https://github.com/Seriots/snowcrash/tree/master/level04/resources/README.md)
+> ### NEXT : [Level 04](/level04/resources/README.md)
